@@ -4,6 +4,9 @@
   "authors": "Ibomy",
   "about_url": null,
   "license_url": null,
-  "minimum_discourse_version": "2.9.0.beta1"
+  "minimum_discourse_version": "2.9.0.beta1",
+  "modifiers": {
+    "svg_icons": ["ibomy-share", "ibomy-agree", "ibomy-comment", "ibomy-search"]
+  }
 }
 
