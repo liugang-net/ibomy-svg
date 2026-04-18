@@ -6,7 +6,28 @@
   "license_url": null,
   "minimum_discourse_version": "2.9.0.beta1",
   "modifiers": {
-    "svg_icons": ["ibomy-share", "ibomy-agree", "ibomy-comment", "ibomy-search"]
+    "svg_icons": [
+      "ibomy-agree",
+      "ibomy-back",
+      "ibomy-bookmark",
+      "ibomy-bounty-score",
+      "ibomy-bounty-time",
+      "ibomy-category-info",
+      "ibomy-close",
+      "ibomy-comment",
+      "ibomy-designer-shop",
+      "ibomy-edit-fill",
+      "ibomy-expand",
+      "ibomy-feedback",
+      "ibomy-link",
+      "ibomy-more-chevron",
+      "ibomy-more-dots",
+      "ibomy-post",
+      "ibomy-search",
+      "ibomy-share",
+      "ibomy-topic",
+      "ibomy-top",
+      "ibomy-views"
+    ]
   }
 }
-
