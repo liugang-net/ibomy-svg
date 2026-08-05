@@ -17,9 +17,12 @@
       "ibomy-comment",
       "ibomy-designer-shop",
       "ibomy-edit-fill",
+      "ibomy-eye-hide",
+      "ibomy-eye-show",
       "ibomy-expand",
       "ibomy-feedback",
       "ibomy-link",
+      "ibomy-address",
       "ibomy-more-chevron",
       "ibomy-more-dots",
       "ibomy-notification-at",
@@ -39,11 +42,13 @@
       "ibomy-notification-quote-right",
       "ibomy-notification-reply",
       "ibomy-post",
+      "ibomy-points",
       "ibomy-search",
       "ibomy-share",
       "ibomy-topic",
       "ibomy-top",
-      "ibomy-views"
+      "ibomy-views",
+      "ibomy-warning"
     ]
   }
 }
